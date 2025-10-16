@@ -1,2 +1,6 @@
 informacja z pliku
+<<<<<<< HEAD
 przerwa o 12:30
+=======
+koniec przerwy o 13:30
+>>>>>>> 35f9fea42dbb9aca6329bdf088c84004d09e929c
