@@ -1,0 +1,3 @@
+#witaj test
+- jest to testowy wpis
+- włascicielem kodu jest ...
